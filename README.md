@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Aditya%20Rathore&fontSize=46&fontColor=fff&animation=twinkling" alt="Header" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3800&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=Full-Stack+%26+AI+Engineer;Building+LLM+%7C+RAG+%7C+AI+Agents+%7C+Automation;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3800&pause=900&color=6366F1&center=true&vCenter=true&width=680&lines=Full-Stack+%26+AI+Engineer+%7C+Data+Analyst;Building+LLM+%7C+RAG+%7C+AI+Agents+%7C+Automation;SQL+%7C+Power+BI+%7C+Pandas+%7C+Data+Visualization;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+
+**Full-Stack · AI Engineer · Data Analyst** — intelligent apps, analytics dashboards & data-driven insights
 
 [![Profile views](https://komarev.com/ghpvc/?username=AdityaRathore70677&label=Profile+views&color=6366f1&style=for-the-badge)](https://github.com/AdityaRathore70677)
 [![GitHub followers](https://img.shields.io/github/followers/AdityaRathore70677?style=for-the-badge&color=0891b2&labelColor=0f172a)](https://github.com/AdityaRathore70677?tab=followers)
@@ -31,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,mongodb,docker,git,github,linux&theme=dark&perline=9" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,mongodb,mysql,docker,git,github,linux&theme=dark&perline=10" alt="Skills" />
 
 </div>
 
@@ -47,8 +49,23 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
+
+---
+
+## 📈 Data analytics
+
+| Project | Tools | Focus |
+| --- | --- | --- |
+| [Sales_Insight](https://github.com/AdityaRathore70677/Sales_Insight) | SQL · Power BI | Sales KPIs, data cleaning & dashboards |
+| [Adventure_Works_Sales](https://github.com/AdityaRathore70677/Adventure_Works_Sales) | Power BI | Bicycle company sales analysis (2020–2022) |
+| [E-Commerce-Project](https://github.com/AdityaRathore70677/E-Commerce-Project) | Python · Jupyter | E-commerce data analysis |
+| [Cars-24-CaseStudy](https://github.com/AdityaRathore70677/Cars-24-CaseStudy) | Pandas | Used-car pricing case study |
+| [Titan-Data-Set](https://github.com/AdityaRathore70677/Titan-Data-Set) | Pandas | Titanic dataset EDA |
+
+**Skills:** SQL · Power BI · Pandas · NumPy · Excel · Data Visualization · EDA · Dashboarding
 
 ---
 
@@ -97,8 +114,8 @@
 ## 🌱 Currently
 
 - Building **AI-powered full-stack products** (LLM + RAG + automation)
+- Creating **data analytics dashboards** with SQL, Power BI & Python
 - Strengthening **FastAPI, React, and vector search** for production apps
-- Exploring **ML deployment** and real-world data pipelines
 
 ---
 
